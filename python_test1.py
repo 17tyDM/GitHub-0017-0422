@@ -1,4 +1,9 @@
-#ループと条件分岐を使った適当なプログラム
+#ループと条件分岐を使ったプログラム
+'''
+ダブルクォーテーション(")やシングルクォーテーション(')を３つ連続することで後ろにさらに３つ追加補完される
+その間にかかれたコードはすべてコメントアウトされる。
+extension(拡張機能):autoDocstring
+'''
 def test():
     fruit_list = ["apple","banana","grape","strawberry"]
     for value in fruit_list:
