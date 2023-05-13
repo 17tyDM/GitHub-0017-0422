@@ -1,3 +1,4 @@
+#ループと条件分岐を使った適当なプログラム
 def test():
     fruit_list = ["apple","banana","grape","strawberry"]
     for value in fruit_list:
